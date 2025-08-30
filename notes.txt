@@ -1,6 +1,6 @@
 Hi, I'm Ajay, a 2nd-year B.Tech IT student at School of Engineering, CUSAT.
-My areas of interest include Robotics, Artificial Intelligence, Iot, Embedded System and Web development
-.
+My areas of interest include Robotics, Artificial Intelligence, Iot, Embedded System and Web development.
+
 I enjoy learning by doing and strongly believe in building projects that create real-world impact.  
 Currently, I am working on strengthening my knowledge of Python and C++, while also exploring Arduino and ESP32 for hardware projects.
 My long-term goal is to become a Robotics Engineer who integrates AI and intelligent automation into robotics to solve everyday problems.  
